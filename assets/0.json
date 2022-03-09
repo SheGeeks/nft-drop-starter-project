@@ -1,0 +1,29 @@
+{
+  "name": "WFFLZ 001",
+  "symbol": "WFFLZ",
+  "description": "Waffles are better than pancakes. Why? Infrastructure. Collection of 4 WFFLZ. This is the number 1/4.",
+  "image": "0.png",
+  "attributes": [
+    { "trait_type": "Text", "value": "0" },
+    { "trait_type": "Topping: Butter", "value": "3" },
+    { "trait_type": "Better Than Pancakes", "value": "1" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "DJgm4hTcdL9N3MfAUxNoQJH6mB5cLLsRBqg7CYBAhgPk",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "Waffles are better than pancakes",
+    "family": "lettering"
+  }
+}
