@@ -1,21 +1,21 @@
 # 🧇 WFFLZ NFT Minter Dapp 🧇
 
-`"WFFLZ are better than pancakes" - Bro`
+`"WFFLZ are better than pancakes" - bro`
 
 An experimental project that mints WFFLZ NFTs on the Solana network. Connect your wallet and mint a WFFLZ NFT. **This is for learning purposes only** and the first of (hopefully) more Web3 experiments.
 
-**Do not use real money/crypto to mint! Use fake SOL on devnet only!**
+**Do not use real money/crypto to mint! Use devnet SOL only!**
 
 Thanks to [\_buildspace](buildspace.so) for providing the starter files and tutorial to create my first Dapp! Site design created by me.
 
 ### Built With:
 
-- React
 - [Metaplex](https://www.metaplex.com/) (Collection of libraries, contracts, and tools to make creating and launching NFTs easy)
 - [Candy Machine](https://docs.metaplex.com/candy-machine-v2/mint-frontend) (Metaplex tool to manage a "fair mint")
 - [QuickNode](https://www.quicknode.com/)
 - Solana CLI
-- Node
+- Arweave
+- React
 - CSS3
 
 ### Lessons
