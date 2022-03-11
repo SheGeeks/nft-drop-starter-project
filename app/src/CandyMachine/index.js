@@ -412,11 +412,12 @@ const CandyMachine = ({ walletAddress }) => {
   };
 
   const showMintBtn = () => {
-    if (renderDropTimer()) {
+    if (renderDropTimer() == `<CountdownTimer dropDate={dropDate} />`) {
       return <div className="machine-container">{renderDropTimer()}</div>;
     } else {
       return (
         <div className="machine-container">
+          {renderDropTimer()}
           {candyMachine.state.itemsRedeemed ===
           candyMachine.state.itemsAvailable ? (
             <p className="sub-text">Sold Out 🙊</p>
